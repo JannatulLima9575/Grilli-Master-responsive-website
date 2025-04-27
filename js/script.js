@@ -1,7 +1,4 @@
 'use strict';
-
-
-
 /**
  * PRELOAD
  * 
@@ -26,8 +23,6 @@ const addEventOnElements = function (elements, eventType, callback) {
     elements[i].addEventListener(eventType, callback);
   }
 }
-
-
 
 /**
  * NAVBAR
