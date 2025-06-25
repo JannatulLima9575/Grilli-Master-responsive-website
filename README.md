@@ -2,7 +2,9 @@
 
 A fully responsive and modern restaurant website designed for **Grilli**. Built using **HTML5**, **CSS3**, and **Vanilla JavaScript**, this project showcases a dynamic and elegant layout suitable for any restaurant business.
 
-!([https://i.ibb.co/gvYDYMK/grilli-preview.png](https://i.ibb.co/VpwNLsPk/image.png))
+---
+
+<img src="https://i.ibb.co/VpwNLsPk/image.png" style="height: 100%; width: auto;" alt="JobNest Screenshot">
 
 ---
 
